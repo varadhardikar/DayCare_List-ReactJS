@@ -1,0 +1,80 @@
+/* CSS FILE FOR COSTOMIZING */
+
+
+*{margin:0 ; padding: 0}
+*{
+  box-sizing: border-box;
+  padding: 0cm;
+  margin: 0cm;
+  background-color: #d2dbdd;
+}
+.heading{
+  padding: 10px 5px;
+  color: salmon;
+  background-color: #fff;
+  text-align: center;
+  font-size: 9px;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin: 35px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',monospace;
+  border-top: -100%;
+  border-left: 5px;
+  border-right: 5px;
+  border-bottom: -100%;
+}
+.cards{
+  width: 95%;
+  height: auto;
+}
+.card{
+  margin: 10%;
+  width: 13%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card_title{
+  font-size: 16px;
+}
+
+.Data{
+  width: 100%;
+  height: auto;
+}
+
+.data{
+  margin: 5%;
+  text-align: center;
+  font-size: 13px;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  text-transform: capitalize; 
+}
+
+.data_about{
+  margin: 5%;
+  text-align: center;
+  font-size: 13px;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  text-transform: capitalize; 
+}
